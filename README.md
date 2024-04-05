@@ -1,0 +1,1 @@
+Using TensorFlow Library, this project is on an image classifier using Convolutional Neural Network for traffic signs in Singapore. The aim of the model is to find applicability in the development of Autonomous vehicles in identifying traffic information during drives.
